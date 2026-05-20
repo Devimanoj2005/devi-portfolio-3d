@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663680620057/QQh8dPZNNQRS49LEtwLZBL",
+    "access_key_id": "ASIAZV3A2ECZBHAM4DJJ",
+    "secret_access_key": "8ZLa3RaxnN3PYO0nyPwC9IMkl67nOXIWE18KQk8K",
+    "session_token": "IQoJb3JpZ2luX2VjEC0aCXVzLWVhc3QtMSJHMEUCIQCz6swD2QQLJb2KYd8EbjGNG6aNgp0T41GB3lRq3cw4OgIgbqSy4N+NDPLh5NMntjo7u+efnn7zluyjZaoOO7E45Gsq/wMI9f//////////ARAEGgw2NjUzODYwOTg4NjYiDBTbFgk/o1kf/zKexCrTA39YKccX07OMoopvhCa4s9DFFrm8Mjs56fq/mDdiKdIL2NSTD1vM8oS2OUo83m0XE76KA7xX2Dh0/lt8P483yvWH5puERQr/+yYLh7vUsjBz5I2nJotowx8wCq7S+M4Q/X1B9fztj5Ai9QZw4qzI6s3R+iLPtIbCNXL4Jcd8m786gMcV/RTDLzaJRxmlhU5s/ey+mef9RMmex6QX8HDjm3hlUopHrxhNLDvp5S5X2XEEh+c3aJ8BLxB+1n8I3L34LXy/fWhpKSQRgWUn44ccWkZylgL35WJVOdADHlsyTqu4UFLFUi0+L8GUpBcFqJJKGxR7RjkRe69w2qs1W/XQNa0oI3rEQ3AqAwaaHo6QzwdIt6mFEYtI4Zo6EvUCqaLV1p/Sjo/7OIJZz7kgtGkZ/8WGrC7J4bSArlXtMxOkVkeFu3emJCwzwO4qVuCbRRW/k9kyNA5Vbt5joMo7TB8ZzW7QZDbbTZ0wX1hNpsf42o5kh/EtrvJiFHkXQZD8ckir4TU8CnGraRhY9hvZQFHYGgSAVOWbiU5E9E4T6trX2iNyCxIXCEmBhdBr0YPq56KQ0uwmhgdFG1vhygCDyJ8MB1ICsPc6wR9Xd+bG/SGd5phnWlvtMLisuNAGOp0BobuCJ4AJavvuUS9sXX/4uvORtuh7yX9HP6wnFmVCuqzHCIT5vJEgqhBr+PJYYkKUxQKOw9nREbLMrwOv5H1wR1mO/y5wetg1l4ohKQBSxtwpUrFbnGCJmDgnmqYT1Edh4LVB8dXno9yDd/3HKFhUEbFrZYZUtLKk1y/jjpWjxTagPqpoXaMNWzVUyPWbt4/lvO+Qy/dFg90hm1NmoA==",
+    "expiration": "2026-05-21T08:14:48.000Z"
+  },
+  "name": "devi-portfolio-3d",
+  "path": "/home/ubuntu/devi-portfolio-3d",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "ZmEELc2jPn7RvTp68oY84W",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "gbvym5YFoqRXivk2WMt7iZ",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Devi Manoj",
+    "OWNER_OPEN_ID": "byVBLnNcrAf2nehSSVDSqx",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "ed438bc1-6d3c-4ec4-aed4-b12a6b340ff7",
+    "VITE_APP_ID": "QQh8dPZNNQRS49LEtwLZBL",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Devi Manoj | Full Stack Developer",
+    "VITE_FRONTEND_FORGE_API_KEY": "iMPNZYwVXognAXKZNk87Ch",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
